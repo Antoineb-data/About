@@ -1,8 +1,7 @@
 <img width="288" height="288" alt="photo profil" src="https://github.com/user-attachments/assets/9fcf0fc5-e117-4b79-bfb8-bd8f420116bb" />
 
 
-# About
-Présentation 
+
 
 # 👋 Bonjour, je suis Antoine
 
