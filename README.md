@@ -36,5 +36,5 @@ Je combine **expertise terrain en santé au travail** et **analyse de données**
 
 | Projet | Description | Liens |
 |:-------|:-------------|:------|
-| 🩺 **HALE Project** |
+| 🩺 **HALE Project** | en cours 
 
