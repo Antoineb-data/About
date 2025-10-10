@@ -19,8 +19,8 @@ Je combine **expertise terrain en santé au travail** et **analyse de données**
 ---
 
 ## 💼 Profession / Rôle
-- Conseil en ergonomie et prévention des TMS  
-- Analyse des conditions d’exercice et des risques professionnels  
+- Conseil en santé au travail et prévention des TMS  
+- Management ergonomique du postge de travail 
 - Valorisation des données locales (Excel, SQL, Power BI, Python)  
 - Contribution à des projets de santé publique et de prévention en santé
 
@@ -29,14 +29,14 @@ Je combine **expertise terrain en santé au travail** et **analyse de données**
 ## 🧠 Compétences clés
 
 ### 🔹 Techniques
-- **Data Analysis** : Python (Pandas, Matplotlib), SQL, Power BI, Excel  
-- **Data Cleaning & Viz** : storytelling, indicateurs, dashboards  
+- **Data Analyse** : Python (Pandas, Matplotlib), SQL, Power BI, Excel  
+- **Data Cleaning & Viz** : ndicateurs, dashboards  
 - **Collaboration** : GitHub, Notion, Google Sheets  
 
 ### 🔹 Métier
 - Santé au travail & ergonomie  
 - Prévention des TMS  
-- Lecture critique et mise en contexte des données santé  
+
 
 ---
 
