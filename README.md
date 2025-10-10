@@ -12,7 +12,7 @@
 # 👋 Bonjour, je suis Antoine
 
 🎯 **Kiné du travail & Data Analyst Santé Publique**  
-Je combine **expertise terrain en santé au travail** et **analyse de données** pour améliorer la prévention, la qualité de vie au travail et l'efficience des politiques de santé.
+Je combine **expertise terrain en santé au travail** et **analyse de données** pour améliorer la prévention, la qualité de vie au travail et contribuer modestement à une prévention accrue dans le cadre des Troubles Musculo Squelettiques notamment.
 
 > *La data au service de la santé et de la prévention.*
 
